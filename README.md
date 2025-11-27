@@ -13,7 +13,7 @@ This project demonstrates the fundamentals of version control using Git and GitH
 This assignment is part of Module 1 coursework focusing on Git and GitHub workflows, designed to build practical skills in collaborative development practices.
 
 ## Author
-DevOps Module 1 Student
+Shoibal Das
 
 ## Date
 November 27, 2025
