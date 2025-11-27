@@ -1,0 +1,10 @@
+Hello World!
+
+This file was created in the dev branch as part of the DevOps Module 1 assignment.
+
+Features implemented in this branch:
+- Created hello.txt file
+- Demonstrating branch-based development workflow
+- Preparing for pull request to main branch
+
+Date: November 27, 2025
